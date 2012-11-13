@@ -8,7 +8,7 @@ You need to configurate it yourself.
 
 如果你要使用，则需要自行配置。
 
-有关Sublime Text 2插件开发的文章，请看这里[Sublime Text 2插件开发Tips](http://guojing.me/blog/2012/11/09/sublime-text-2-plugins-tips/)
+有关Sublime Text 2插件开发的文章，请看这里 [Sublime Text 2插件开发Tips](http://guojing.me/blog/2012/11/09/sublime-text-2-plugins-tips/)。
 
 #List#
 
